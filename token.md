@@ -6,6 +6,10 @@
 3. Mine GoreliETH using this link (https://goerli-faucet.pk910.de/)
 4. Claim 0.01 GoerliETH or more.
 
+Your metamask account should look something like this after mining the GoreliETH
+![image](https://github.com/AmarKumar1912/blockchain/assets/119916402/d53206e3-ca68-4d86-a3dc-8b153b366b12)
+
+
 ## 20 lab
 1. Go to given link: https://20lab.app/ (20lab is an ERC-20 token generator tool)
 2. Click on open app>Start
